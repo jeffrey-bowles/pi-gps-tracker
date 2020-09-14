@@ -37,9 +37,6 @@ That should be it! The /etc/rc.local file should execute when you reboot the Pi,
 Run:
     sudo apt-get install -y nodejs
 
-- OR -
-    curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-
 Once Node.js and npm are installed:
 
     mkdir gps
