@@ -35,6 +35,7 @@ That should be it! The /etc/rc.local file should execute when you reboot the Pi,
 ### Setting up tracking interface on another device
 
 Run:
+
     sudo apt-get install -y nodejs
 
 Once Node.js and npm are installed:
